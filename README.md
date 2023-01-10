@@ -4,7 +4,7 @@ The first project of Team Ner.D.
 
 Contributors
   - MintCat98 (Mincheol, Kang)
-  - Youri, Han
+  - ivy-12 (Youri, Han)
 
 This project helps students in DGIST to save money
 by providing them boards for group purchase.
